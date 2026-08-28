@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Bajrangi Bhaijaan (2015)" group-title="Hindi Movies",Bajrangi Bhaijaan (2015)
+#EXTINF:-1 tvg-name="Bollywood" group-title="Hindi Movies",Bajrangi Bhaijaan (2015)
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282015%29/Bajrangi%20Bhaijaan%20%282015%29%201080p/Bajrangi%20Bhaijaan%20%282015%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-name="The Avengers (2012)" group-title="English Movies",The Avengers (2012)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/06%20-%20The%20Avengers%20%282012%29%201080p%20%5BDual%20Audio%5D/The%20Avengers%20%282012%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
@@ -8,3 +8,5 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282004%29/Veer-Zaara%20%282004%29%201080p/Veer-Zaara%20%282004%29%20Hindi%201080p%20BluRay%20x265%20HEVC%20AAC%205.1%20MSubs%20-Natty.mkv
 #EXTINF:-1 tvg-name="Kolkata" group-title="Kolkata", Le Halua Le
 http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282012%29/Le%20Halua%20Le%20%282012%29%201080p/Le%20Halua%20Le%20%282012%29%20Bengali%201080p%20WEB-DL%20AVC%20x264%20AAC%20-MLSBD.mkv
+#EXTINF:-1 tvg-name="Bollywood" group-title="Hindi Movies", Sanam Teri Kasam
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282016%29/Sanam%20Teri%20Kasam%20%282016%29%201080p/Sanam%20Teri%20Kasam%20%282016%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
